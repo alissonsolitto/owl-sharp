@@ -5,6 +5,8 @@
 [![Lattes CNPq](https://img.shields.io/badge/Lattes-CNPq-brightgreen)](http://lattes.cnpq.br/7754813473705418)
 [![Google Acadêmico](https://img.shields.io/badge/Google-Acadêmico-red)](https://scholar.google.com.br/citations?user=NSFOPPAAAAAJ)
 
+![Arquitetura da solução OWL-Sharp](https://github.com/alissonsolitto/owl-sharp/blob/main/OWL-Sharp%20Solution%20Architecture.png)
+
 ### Abstract:
 
 The use of ontologies in Software Engineering has great potential for the progress of software construction processes. Ontologies can provide the inference of new knowledge and the retrieval of information in a more expressive way with the use of queries, making the evaluation of relevant knowledge effective for the context of the application. In this article, we present the OWL-Sharp tool, a semantic source code generator for solutions coded in the C Sharp programming language. We evaluated the performance of OWL-Sharp in 23 relevant opensource software solutions and performed the experiments obtaining metrics of processing of the artifacts and the execution time of each solution. To evaluate the semantic generation of the project, we performed code smell detection using semantic queries in SPARQL. The results show that the tool achieves significant results.
