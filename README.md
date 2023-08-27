@@ -27,8 +27,7 @@ O uso de ontologias em Engenharia de Software tem grande potencial para o progre
   - [Lattes CNPq](http://lattes.cnpq.br/6027755717265622)
   - [Google Acadêmico](https://scholar.google.com.br/citations?user=xZpN3qUAAAAJ)
     
-Programa de Pós-Graduação em Ciência da Computação, Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP)  
-Presidente Prudente, São Paulo, Brasil
+Programa de Pós-Graduação em Ciência da Computação, Universidade Estadual Paulista Júlio de Mesquita Filho (UNESP) - Presidente Prudente, São Paulo, Brasil
 
 ### Publication Details:
 
